@@ -1,0 +1,20 @@
+{
+  "name": "2022-02-06--firstclassfunctions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttejeda/2022-02-06--FirstClassFunctions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttejeda/2022-02-06--FirstClassFunctions/issues"
+  },
+  "homepage": "https://github.com/ttejeda/2022-02-06--FirstClassFunctions#readme"
+}
